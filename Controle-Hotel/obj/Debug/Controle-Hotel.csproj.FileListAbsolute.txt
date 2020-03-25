@@ -1,0 +1,9 @@
+C:\Users\ddurv\source\repos\Controle-Hotel\Controle-Hotel\bin\Debug\Controle-Hotel.exe.config
+C:\Users\ddurv\source\repos\Controle-Hotel\Controle-Hotel\bin\Debug\Controle-Hotel.exe
+C:\Users\ddurv\source\repos\Controle-Hotel\Controle-Hotel\bin\Debug\Controle-Hotel.pdb
+C:\Users\ddurv\source\repos\Controle-Hotel\Controle-Hotel\obj\Debug\Controle-Hotel.csprojAssemblyReference.cache
+C:\Users\ddurv\source\repos\Controle-Hotel\Controle-Hotel\obj\Debug\Controle_Hotel.Form1.resources
+C:\Users\ddurv\source\repos\Controle-Hotel\Controle-Hotel\obj\Debug\Controle_Hotel.Properties.Resources.resources
+C:\Users\ddurv\source\repos\Controle-Hotel\Controle-Hotel\obj\Debug\Controle-Hotel.csproj.GenerateResource.cache
+C:\Users\ddurv\source\repos\Controle-Hotel\Controle-Hotel\obj\Debug\Controle-Hotel.exe
+C:\Users\ddurv\source\repos\Controle-Hotel\Controle-Hotel\obj\Debug\Controle-Hotel.pdb
